@@ -1,5 +1,0 @@
-RewriteEngine On 
-RewriteCond %{HTTP_HOST} !^https://osorina.github.io/cup-demo/$ 
-RewriteRule ^(.*)$ https://osorina.github.io/cup-demo/$1 [R=permanent,L]
-
-RewriteRule ^home$ / [L,R=301]
