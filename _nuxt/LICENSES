@@ -28,8 +28,6 @@
 	@license MIT
 	*/
 
-/*! Fabric.js Copyright 2008-2015, Printio (Juriy Zaytsev, Maxim Chernyak) */
-
 /*!
  * vue-no-ssr v1.1.1
  * (c) 2018-present egoist <0x142857@gmail.com>
@@ -41,6 +39,8 @@ object-assign
 (c) Sindre Sorhus
 @license MIT
 */
+
+/*! Fabric.js Copyright 2008-2015, Printio (Juriy Zaytsev, Maxim Chernyak) */
 
 /*!
  * The buffer module from node.js, for the browser.
